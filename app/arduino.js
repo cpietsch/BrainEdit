@@ -1,4 +1,5 @@
 // Copyright (c) 2015 Christopher Pietsch
+
 var serialport = require("serialport");
 var SerialPort = serialport.SerialPort;
 

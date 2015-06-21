@@ -1,7 +1,6 @@
 // Copyright (c) 2015 Christopher Pietsch
 
 var express = require('express');
-var gui = require('nw.gui');
 var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
