@@ -1,7 +1,8 @@
 # BrainEdit
-Mindmachine Editor for generating binaural Tracks and flickering LED-Arduino-Glasses support
-
+Mindmachine Editor for generating binaural Tracks and flickering LED-Arduino-Glasses support.
 This Editor is part of the www.brainstatesharing.com project.
+
+![Screenshot](https://raw.githubusercontent.com/cpietsch/BrainEdit/master/screenshot.png?raw=true "Screenshot")
 
 # Build
 - current nw.js version: 0.12.0
