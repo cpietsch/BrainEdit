@@ -9,3 +9,7 @@ This Editor is part of the www.brainstatesharing.com project.
 - npm install
 - serialport needs recompilation with 0.12.0 nw flag (https://github.com/nwjs/nw-gyp/issues/69)
 - Put nw.js as OSX version in deploy/ as BrainEdit.app and execute deploy.sh
+
+# Arduino
+- Put the sketch in /arduino on your arduino
+- Make yourself nice goggles and connect the leds to the pins stated in the sketch
