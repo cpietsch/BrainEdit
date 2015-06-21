@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>BrainEdit</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+
+		<script src="../brain.js"></script>
+
+		<script src="js/socket.io.js"></script>
+
+		<script src="js/jquery.min.js"></script>
+		<script src="js/d3.v3.min.js"></script>
+		<script src="js/d3-zoom-pan-extent.js"></script>
+
+		<script src="js/app.js"></script>
+
+
+		<link rel="stylesheet" href="css/style.css" />
+
+	</head>
+	<body>
+	
+	<div id="tracklist"></div>
+
+	<div class="controls">
+
+		<div class="container">
+		<input id="load" type="button" value="list tracks">
+		<input id="arduino" type="button" value="">
+		</div>
+		
+		<div class="container">
+		<span>Volume</span>
+		<input id="volume" type="range" min="0" max="1" step="0.01" value="0.4" />
+		<input id="play" type="button" value="play">
+		<input id="stop" type="button" value="stop">
+		</div>
+
+		<div class="container">
+		<span>Trackname</span>
+		<input id="name" value="">
+		<input id="save" type="button" value="save">
+		<input id="new" type="button" value="new">
+		</div>
+
+		<div class="container">
+		<span>BaseFreq</span>
+		<input id="base" type="range" min="10" max="800" step="1" value="200" />
+		<input id="basein" value="200">
+		</div>
+
+	</div>
+
+
+
+	<div id="editor"></div>
+	
+
+	</body>
+</html>
