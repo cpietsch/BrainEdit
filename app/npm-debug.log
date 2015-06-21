@@ -4,23 +4,23 @@
 3 info using node@v0.10.28
 4 verbose node symlink /usr/local/bin/node
 5 verbose run-script [ 'prestart', 'start', 'poststart' ]
-6 info prestart braineditor@0.1.0
-7 info start braineditor@0.1.0
+6 info prestart BrainEditor@0.1.0
+7 info start BrainEditor@0.1.0
 8 verbose unsafe-perm in lifecycle true
-9 info braineditor@0.1.0 Failed to exec start script
-10 error braineditor@0.1.0 start: `node brain.js`
+9 info BrainEditor@0.1.0 Failed to exec start script
+10 error BrainEditor@0.1.0 start: `node brain.js`
 10 error Exit status 8
-11 error Failed at the braineditor@0.1.0 start script.
-11 error This is most likely a problem with the braineditor package,
+11 error Failed at the BrainEditor@0.1.0 start script.
+11 error This is most likely a problem with the BrainEditor package,
 11 error not with npm itself.
 11 error Tell the author that this fails on your system:
 11 error     node brain.js
 11 error You can get their info via:
-11 error     npm owner ls braineditor
+11 error     npm owner ls BrainEditor
 11 error There is likely additional logging output above.
 12 error System Darwin 14.3.0
 13 error command "node" "/usr/local/bin/npm" "start"
-14 error cwd /Users/assdrive/Documents/projekte/braineditAPP
+14 error cwd /Users/assdrive/Documents/projekte/BrainEdit/app
 15 error node -v v0.10.28
 16 error npm -v 1.4.10
 17 error code ELIFECYCLE
