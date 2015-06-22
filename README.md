@@ -4,6 +4,7 @@ This Editor is part of the www.brainstatesharing.com project.
 
 # Download
 For now there is only a 64bit OSX Version of the BrainEdit you can download here: https://github.com/cpietsch/BrainEdit/releases/download/v1.1/BrainEdit.zip
+Note: To open do a "ctrl" + doubleclick on the BrainEdit.app and select open.
 
 ![Screenshot](https://raw.githubusercontent.com/cpietsch/BrainEdit/master/screenshot.png?raw=true "Screenshot")
 
