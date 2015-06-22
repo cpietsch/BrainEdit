@@ -19,4 +19,4 @@ Note: To open do a "ctrl" + doubleclick on the BrainEdit.app and select open.
 - Put the sketch in /arduino on your arduino
 - Make yourself nice goggles and connect the leds to the pins stated in the sketch
 
-![Screenshot](https://raw.githubusercontent.com/cpietsch/BrainEdit/master/arduino/brainedit_Steckplatine.svg?raw=true "Screenshot")
+![Screenshot](https://rawgithub.com/cpietsch/BrainEdit/master/arduino/brainedit_Steckplatine.svg "Screenshot")
